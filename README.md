@@ -1,2 +1,2 @@
 # Josephus-Game
-Implementation of a Josephus Game in C++ using SFML and concepts from Data Structures.
+Implemented a Josephus Game in C++ using SFML, while integrating principles from Data Structures and Object-Oriented Programming (OOP). This involves organizing code to represent player circles, implementing Josephus problem-solving algorithms, and utilizing data structures like linked lists or arrays for efficient game state management. OOP is applied through class design for encapsulating game logic and player attributes, enhancing modularity and code clarity. SFML adds a graphical interface for user interaction, enriching the gaming experience.
